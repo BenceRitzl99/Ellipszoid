@@ -1,3 +1,14 @@
+/*
+* File: app.ts
+* Author: Ritzl Bence
+* Copyright: 2024, Ritzl Bence
+* Group: Szoft I/1/N
+* Date: 2024-05-30
+* Github: https://github.com/BenceRitzl99/
+* Licenc: GNU GPL
+*/
+
+
 class Ellipszoid {
     sideAInput?: HTMLInputElement | null;
     sideBInput?: HTMLInputElement | null;
